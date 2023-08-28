@@ -1,0 +1,24 @@
+
+body{
+background-color: blanchedalmond;
+}
+.maincontainer{
+              background-color: aqua;
+              margin-left: 500px;
+              margin-right: 600px;
+              border-radius: 0.25rem;
+              color:red;
+              margin-top: 300px;
+}
+.btn{
+              color:green;
+              background-attachment: blue;
+              font-size: larger;
+              font-weight: bold;
+              
+}
+.txt{
+              margin-left: 100px;
+              color:blue;
+              font-weight: bold;
+}
